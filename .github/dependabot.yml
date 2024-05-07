@@ -8,7 +8,5 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-    target-branch: "main"
-    labels:
-      - "npm dependencies"
-  
+    pull-request-branch-name:
+      seperator: "-"
