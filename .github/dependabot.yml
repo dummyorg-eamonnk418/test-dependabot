@@ -9,4 +9,4 @@ updates:
     schedule:
       interval: "daily"
     pull-request-branch-name:
-      seperator: "-"
+      separator: "-"
